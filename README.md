@@ -4,4 +4,4 @@ Tkinter GUI that allows users to control the Discord bot without the need in sen
 Please run the main_bot.py file before running the Guimain.py file.
 PLEASE DO NOT DELETE Gui_2.py FILE and don't forget to put your bot token at line 230 in main_bot.py!
 
-SORRY FOR THE HORRIBLE AND MESSY CODE.
+I apologize for any mistakes or horrible code appeared in those files.
